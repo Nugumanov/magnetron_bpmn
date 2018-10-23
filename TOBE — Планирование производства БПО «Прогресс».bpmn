@@ -662,8 +662,8 @@
         <di:waypoint x="416" y="-209" />
       </bpmndi:BPMNEdge>
       <bpmndi:BPMNEdge id="MessageFlow_07rlowp_di" bpmnElement="MessageFlow_07rlowp">
-        <di:waypoint x="664" y="20" />
-        <di:waypoint x="664" y="-36" />
+        <di:waypoint x="678" y="20" />
+        <di:waypoint x="678" y="-36" />
         <di:waypoint x="466" y="-36" />
         <di:waypoint x="466" y="-169" />
       </bpmndi:BPMNEdge>
